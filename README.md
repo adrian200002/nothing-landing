@@ -1,6 +1,6 @@
 Nothing landing page.
 
-Desciption:
+Description:
 I developed a simple and responsive HTML website for this project, incorporating CSS with Sass for styling. 
 The website is designed to be visually appealing and functional on various devices, including tablets, phones, and desktop computers. 
 The responsive design ensures an optimal viewing experience across different screen sizes.
